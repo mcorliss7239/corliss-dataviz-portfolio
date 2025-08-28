@@ -2,8 +2,8 @@
 
 # Quick references
 
-- Web page URL: https://mcorliss7239.github.io/corliss-dataviz-portfolio/
-- This repository: https://github.com/mcorliss7239/corliss-dataviz-portfolio
+- Web page URL: (https://mcorliss7239.github.io/corliss-dataviz-portfolio/)
+- This repository: (https://github.com/mcorliss7239/corliss-dataviz-portfolio)
 
 # About me
 Hi! My name is Morgan Corliss and I'm a second year graduate student in the Business Intelligence & Data Analytics program at Carnegie Mellon University.
