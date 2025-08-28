@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Quick references
 
@@ -6,10 +6,10 @@
 - This repository: https://github.com/mcorliss7239/corliss-dataviz-portfolio
 
 # About me
-Hi! My name is Morgan Corliss and I'm a second year graduate student studying in the Business Intelligence & Data Analytics program at Carnegie Mellon University.
+Hi! My name is Morgan Corliss and I'm a second year graduate student in the Business Intelligence & Data Analytics program at Carnegie Mellon University.
 
 # What I hope to learn
-I chose to take Telling Stories with Data because I want to become a better communicator. I had a previous instructor who always talked about how good communicators bring value to data. In this class I want to learn visualization dos and don'ts, familiarize myself with different types of diagrams/charts, and come away with the confidence to choose the best visualization for the given my data/information. Hard work behind the scenes can easily be "lost in translation" when communicated to someone outside the organization. I want to bridge the gap so important data maintains its value. 
+I chose to take Telling Stories with Data because I want to become a better communicator. I had a previous instructor who always talked about how good communicators bring value to data. In this class I want to learn visualization dos and don'ts, familiarize myself with different types of diagrams/charts, and come away with the confidence to choose the best visualization for the given data/information. Hard work behind the scenes can easily be "lost in translation" when communicated to someone outside the organization. I want to bridge the gap so important data maintains its value. 
 
 Following graduation I plan to work for the Army as a Data Scientist. 
 
