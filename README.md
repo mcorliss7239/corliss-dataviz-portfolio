@@ -18,6 +18,8 @@ Following graduation I plan to work for the Army as a Data Scientist.
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt.html)
 Check out my interactive visualization titled "Japan, Greece, and Italy Lead with Highest Average Debt-to-GDP Ratio" created with tableau!
 
+Check out my interactive visualization titled "Debt-to-GDP Ratio Trends: Greece Increasing, Switzerland Maintaining, Türkiye Declining" created with tableau!
+
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
