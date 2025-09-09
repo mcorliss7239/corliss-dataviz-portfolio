@@ -1,4 +1,4 @@
-| [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt.html) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [Test File](test-file.html)
+| [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations)
 
 # Quick references
 
@@ -15,7 +15,7 @@ Following graduation I plan to work for the Army as a Data Scientist.
 
 # Portfolio
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt.html)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 Check out my interactive visualization titled "Japan, Greece, and Italy Lead with Highest Average Debt-to-GDP Ratio" created with tableau!
 
 Check out my interactive visualization titled "Debt-to-GDP Ratio Trends: Greece Increasing, Switzerland Maintaining, Türkiye Declining" created with tableau!
