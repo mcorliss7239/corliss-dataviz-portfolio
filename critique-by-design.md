@@ -49,30 +49,24 @@ While the heatmap was good for comparison, I felt it didn’t fix the issue of i
 
 ## Step Four: Test the Solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Critique By Design Interview Questions and Responses
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+What do you think this visualization is about?
+-	This shows the ranking of the difficulty of different sports, split by category
+Who do you think is the intended audience for this?
+-	I can see any sports fan taking a look at this chart on ESPN
+-	Heatmap is for in-depth analysis, boxplot is surface view
+Is there anything you dislike?
+-	On the heatmap, I think that the columns can blend together, especially if they have similar scores 
+-	I dislike the box plot because it is difficult to quickly figure out what sport is more or less hard than another just by looking at it. I find the heatmap better to quickly gain info
+Is there anything you find confusing?
+-	The box plot doesn’t show what values the sports are ranked on which make it difficult to judge the authenticity of the ranking  
+-	More context needed on the color scale in the heatmap. Are low or high values better?
+-	More context for ranking needed in boxplot. There is nothing that indicates what rank is sport is
+Is there anything you would change or do differently?
+-	I would add a black line that separates columns to more easily distinguish the colors on the heat map. I might also add a note that indicates the scores were out of ten for each category 
+-	No real use of color in the boxplot. Add color to highlight certain things 
+-	Allude to scale used for attributes in the title in boxplot
 
 Synthesis: 
 
