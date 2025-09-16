@@ -11,7 +11,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 This visualization was published on Page 2, an ESPN sports column that ran from 2000 to 2012. The primary audience is sports fans who are using the page for sports-related news. I chose this visualization because I was curious to see what sports were at the top and which were at the bottom. This is a topic that sports fan can continually argue about. 
 
-[Sport Rankings](https://www.espn.com/espn/page2/sportSkills) - “Degree of Difficulty: Sport Rankings.” ESPN, ESPN Internet Ventures, www.espn.com/espn/page2/sportSkills.
+[Sport Rankings](https://www.espn.com/espn/page2/sportSkills), Source: “Degree of Difficulty: Sport Rankings.” ESPN, ESPN Internet Ventures, www.espn.com/espn/page2/sportSkills.
 
 ## Step Two: The Critique
 
@@ -43,7 +43,7 @@ In my redesign, I want to prioritize a comparison-friendly visualization. This c
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Step four: Test the solution
+## Step Four: Test the Solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
@@ -79,8 +79,9 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+“Degree of Difficulty: Sport Rankings.” ESPN, ESPN Internet Ventures, www.espn.com/espn/page2/sportSkills.
+Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11. http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI to help me complete certain operations in Tableau.
 
