@@ -49,7 +49,7 @@ While the heatmap was good for comparison, I felt it didn’t fix the issue of i
 
 ## Step Four: Test the Solution
 
-Critique By Design Interview Questions and Responses
+Critique By Design Interview Questions and Responses:
 
 What do you think this visualization is about?
 -	This shows the ranking of the difficulty of different sports, split by category
@@ -75,6 +75,7 @@ Is there anything you would change or do differently?
 Synthesis: 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
 
 ## Step five: build the solution
 
