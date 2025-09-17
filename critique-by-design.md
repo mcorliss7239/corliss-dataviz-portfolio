@@ -65,7 +65,7 @@ Is there anything you dislike?
 Is there anything you find confusing?
 -	The box plot doesn’t show what values the sports are ranked on which make it difficult to judge the authenticity of the ranking  
 -	More context needed on the color scale in the heatmap. Are low or high values better?
--	More context for ranking needed in boxplot. There is nothing that indicates what rank is sport is
+-	More context for ranking needed in boxplot. There is nothing that indicates what rank each sport is
 
 Is there anything you would change or do differently?
 -	I would add a black line that separates columns to more easily distinguish the colors on the heat map. I might also add a note that indicates the scores were out of ten for each category 
@@ -74,8 +74,9 @@ Is there anything you would change or do differently?
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Overall, the heatmap sketch was better received than the boxplot sketch. I think this is due in part to the fact that the heatmap provides more overall context and information. It was also my favorite and is the version that I'll build upon in part five. 
 
+Most of the feedback mentions the need for more context regarding the overall ranking system and the scale used for grading sports skills. I need to ensure the viewer understands what constitutes a good grade for a sport attribute versus what constitutes a bad one. I tried to imply that with color coding, but I need to take an additional step and either mention it in the title or include a legend. The comments regarding the overall ranking system are especially true for my boxplot sketch, but also apply to the heatmap. I excluded the total score for each sport as I thought this was redundant given the included ranking. However, by excluding it, some viewers may not be able to come to the conclusion that the sport with the highest overall score translates to the top ranking. By adding this back into the heatmap sketch, this could provide some clarity.  
 
 ## Step five: build the solution
 
