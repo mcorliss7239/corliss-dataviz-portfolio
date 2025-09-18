@@ -21,7 +21,7 @@ Check out my interactive visualization titled "Japan, Greece, and Italy Lead wit
 Check out my interactive visualization titled "Debt-to-GDP Ratio Trends: Greece Increasing, Switzerland Maintaining, Türkiye Declining" created with tableau!
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-Check out my visualization titled "Boxing Tops ESPN’s Difficulty Rankings: A Comparative Look at 60 Sports" as redesign of "[Degree of Difficulty: Sport Rankings](https://www.espn.com/espn/page2/sportSkills)" by Page 2 at ESPN.
+Check out my visualization titled "Boxing Tops ESPN’s Difficulty Rankings: A Comparative Look at 60 Sports" a redesign of "[Degree of Difficulty: Sport Rankings](https://www.espn.com/espn/page2/sportSkills)" by Page 2 at ESPN.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
