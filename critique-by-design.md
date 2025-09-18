@@ -78,7 +78,19 @@ Overall, the heatmap sketch was better received than the boxplot sketch. I think
 
 Most of the feedback mentions the need for more context regarding the overall ranking system and the scale used for grading sports skills. I need to ensure the viewer understands what constitutes a good grade for a sport attribute versus what constitutes a bad one. I tried to imply that with color coding, but I need to take an additional step and either mention it in the title or include a legend. The comments regarding the overall ranking system are especially true for my boxplot sketch, but also apply to the heatmap. I excluded the total score for each sport as I thought this was redundant given the included ranking. However, by excluding it, some viewers may not be able to come to the conclusion that the sport with the highest overall score translates to the top ranking. By adding this back into the heatmap sketch, this could provide some clarity.  
 
+One comment mentioned that it was hard to distinguish between rows and columns in the heatmap. I'll add a slight border to the cells to help better define them.
+
 ## Step five: build the solution
+
+<div class='tableauPlaceholder' id='viz1758158946122' style='position: relative'><noscript><a href='#'><img alt='Boxing Tops ESPN’s Difficulty Rankings: A Comparative Look at 60 SportsTotaled across 10 performance metrics (0-10, least to most demanding) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueandRedesignFinalProduct&#47;Heatmap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CritiqueandRedesignFinalProduct&#47;Heatmap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Cr&#47;CritiqueandRedesignFinalProduct&#47;Heatmap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
+<script type='text/javascript'>                 
+  var divElement = document.getElementById('viz1758158946122');         
+  var vizElement = divElement.getElementsByTagName('object')[0];        
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';    
+  var scriptElement = document.createElement('script');                
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';               
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);      
+</script>
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
@@ -88,4 +100,5 @@ Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11. http://w
 
 ## AI acknowledgements
 I used AI to help me complete certain operations in Tableau.
+I used AI to rework my title for my final visualization. 
 
