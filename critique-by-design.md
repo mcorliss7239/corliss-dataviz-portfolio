@@ -1,11 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique By Design - Degree of Difficulty: Sport Rankings
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step One: The Visualization
 
@@ -92,13 +87,12 @@ One comment mentioned that it was hard to distinguish between rows and columns i
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+My visualization redesign maintains the wealth of data presented in the original while adding elements that support data comparison. Ensuring that the visualization was a medium that was good for comparison of sport rankings and attribute grading found within the data was my ultimate goal. I also wanted to lessen the information overload, but I was unable to find a visualization type that I liked and that didn't reduce the scope of the data. I felt that the heatmap was a good option for comparison, as it allows viewers to compare without having to read each individual cell. I made some other style changes, such as moving the ranking and total score columns to the left. This clearly pairs the overall rank with its associated sport and reduces eye travel. The last big change I made was attempting to add more context to the title. I wanted to explain the ranking and grading system so viewers could approach the visualization with a full understanding of the values in the heatmap. 
 
 ## References
 “Degree of Difficulty: Sport Rankings.” ESPN, ESPN Internet Ventures, www.espn.com/espn/page2/sportSkills.
 Few, Stephen. “Data Visualization Effectiveness Profile,” 2017, 11. http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf.
 
 ## AI acknowledgements
-I used AI to help me complete certain operations in Tableau.
-I used AI to rework my title for my final visualization. 
+I used AI to help me complete certain operations in Tableau and to rework my title for my final visualization. 
 
