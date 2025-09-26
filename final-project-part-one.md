@@ -26,17 +26,16 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|United States Department of Agriculture, National Agricultural Statistics Service, Quick Stats | [USDA Quickstats](https://quickstats.nass.usda.gov/) | Data supplied by the USDA covering agricultural-related topics. High level filtering includes animals and products, crops, demographics, economics, and environmental. Filtered and downloaded nine different spreadsheets |
+|Drought.gov | [WisconsinDrought.gov](https://www.drought.gov/states/wisconsin) | Data supplied by NOAA covering droughts and weather conditions. Filtered to state level view. Downloaded spreadsheet for “Historical Drought Conditions in Wisconsin”|
+| Project Datasets |     | Uploaded data from USDA to Github repo |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan on completing my project in shorthand and making visuals mainly in Tableau. I may use Datawrapper if needed.  
 
 ## References
-_List any references you used here._
+Wisconsin | Drought.gov
+https://quickstats.nass.usda.gov/#41386CA2-7564-3C70-B4A8-DD32BF42FCB5
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_I used Copilot to help me find sources, define my project scope, and complete operations in Github.
