@@ -81,8 +81,8 @@
   </div>
 
   <div class="dataset">
-    <h2>Moo Dataset</h2>
-    <p>Custom dataset labeled “moo.csv” — please update this description to reflect its contents once finalized.</p>
+    <h2>Cattle Inventory Data</h2>
+    <p>Inventory of cattle in wisconsin separated by cows, calves, heifers, and bulls.</p>
     <div class="download">
       <a href="https://raw.githubusercontent.com/mcorliss7239/corliss-dataviz-portfolio/main/datasets/moo.csv" target="_blank">Download CSV</a>
     </div>
