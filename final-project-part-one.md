@@ -5,7 +5,7 @@ In this project I want to create a dashboard for farmers in Wisconsin. This reso
 
 Farmers need to be able to "see the future" when they predict next years yield, cost, and potential profit. They make these decisions based off of personal experience, how the market is, and the state of their crops or livestock. Since profits can be seasonal it's very important that they make informed decisions. The problem with this is that it's hard to predict the future and a lot of different factors can influence yield. To bridge this gap farmers deserve all the resources they can get. A one-stop-shop dashboard can highlight the impact of drought on hay conditions, cost estimations of cattle feed, crop economics with soybean versus corn profits, and dive into the relationship between cattle inventory and hay production. 
 
-
+I plan on creating one visualization for hay, corn, and soybean acres harvested to look at the usage of cropland. I will compare soybean, corn, and hay sales price per the acre. I will have a visualization combining cattle price and feed (hay and corn). Finally, I will update my hay conditions chart to highlight years following a significant drought. 
 
 ## Initial sketches
 
