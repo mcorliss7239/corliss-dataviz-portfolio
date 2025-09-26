@@ -1,7 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+| [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
@@ -18,6 +15,7 @@ Text here...
 Text here...
 
 # The data
+
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 Text here...
@@ -28,7 +26,7 @@ Text here...
 |------|-----|-------------|
 |United States Department of Agriculture, National Agricultural Statistics Service, Quick Stats | [USDA Quickstats](https://quickstats.nass.usda.gov/) | Data supplied by the USDA covering agricultural-related topics. High level filtering includes animals and products, crops, demographics, economics, and environmental. Filtered and downloaded nine different spreadsheets |
 |Drought.gov | [WisconsinDrought.gov](https://www.drought.gov/states/wisconsin) | Data supplied by NOAA covering droughts and weather conditions. Filtered to state level view. Downloaded spreadsheet for “Historical Drought Conditions in Wisconsin”|
-| Project Datasets |     | Uploaded data from USDA to Github repo |
+|Project Datasets | [Project Datasets](Project-Data-Sets) | Uploaded data from USDA to Github repo |
 
 # Method and medium
 I plan on completing my project in shorthand and making visuals mainly in Tableau. I may use Datawrapper if needed.  
