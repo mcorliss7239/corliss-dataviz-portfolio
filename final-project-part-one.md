@@ -1,16 +1,13 @@
 | [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+In this project I want to create a dashboard for farmers in Wisconsin. This resource will provide users with a current “snapshot” of conditions but will also include historical data. With these two sources of input the dashboard will identify trends to support operational decision making and detect potential causes of concern.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Farmers need to be able to "see the future" when they predict next years yield, cost, and potential profit. They make these decisions based off of personal experience, how the market is, and the state of their crops or livestock. Since profits can be seasonal it's very important that they make informed decisions. The problem with this is that it's hard to predict the future and a lot of different factors can influence yield. To bridge this gap farmers deserve all the resources they can get. A one-stop-shop dashboard can highlight the impact of drought on hay conditions, cost estimations of cattle feed, crop economics with soybean versus corn profits, and dive into the relationship between cattle inventory and hay production. 
 
-Text here...
+
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
 <div class='tableauPlaceholder' id='viz1758853895796' style='position: relative'><noscript><a href='#'><img alt='Hay Tons ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;Task1_HayProduction&#47;HayTons&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Task1_HayProduction&#47;HayTons' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ta&#47;Task1_HayProduction&#47;HayTons&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>              
 <script type='text/javascript'>                  
@@ -130,4 +127,4 @@ I plan on completing my project in shorthand and making visuals mainly in Tablea
 “Wisconsin.” Drought.Gov, 2025, www.drought.gov/states/wisconsin. 
 
 ## AI acknowledgements
-_I used Copilot to help me find sources, define my project scope, and complete operations in Github.
+I used Copilot to help me find sources, define my project scope, and complete operations in Github.
