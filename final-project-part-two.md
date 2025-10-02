@@ -65,7 +65,7 @@ _List any references you used here._
 https://www.youtube.com/watch?v=6oFTdbrugUs
 
 https://climatology.nelson.wisc.edu/wisconsin-climate-divisions/divisional-annual-average-precipitation/
-
+https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
