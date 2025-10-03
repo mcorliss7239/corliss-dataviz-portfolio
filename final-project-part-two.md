@@ -42,30 +42,26 @@ For my interview I didn't provide any context to the interviewees. I wanted them
 | Is there anything else you’d like to share?                         |N/A|   N/A  |  Outside context like policy changes and other big events might be a good add to explain why certain things are happening in the graphs   |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
 | Interviewees (2/3) suggested covering a longer time period, 10 to 25 years |  I'll test this out with a range of 20 years on my dashboard. I agree with this point and originally I covered 25 years in my charts. My main concern is that it'll make my already crowded dashboard too crowded but I'll give it another try regardless                                                                            |
 |  Interviewees seemed to find the two environmental charts (dought monitor and annual rainfall) helpful  |  I would like to expand my environmental section to really tie in the relationship between weather and conditions/yield. I think adding a chart on temperatures with average, high, and low would be well received         |
 | Interviewees asked for more detail and labels. One of the interviewees misinterpreted the "Corn Stocks" chart as financial assets instead of supply | My charts are unpolished and need better titles, axis labels, and clear units. Without the necessary context I run the risk of my charts being misinterpreted like the "Corn Stocks" chart                                                                                |
 | An interviewee mentioned adding "outside" context to explain highs and lows in the graphs    | I think this is a great idea. National policy and especially in the case of soybeans, international relations, can help explain trends in the data                                                                              |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-
 ## References
-_List any references you used here._
-https://www.youtube.com/watch?v=6oFTdbrugUs
 
-https://climatology.nelson.wisc.edu/wisconsin-climate-divisions/divisional-annual-average-precipitation/
-https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx
+“Divisional (Regional) Annual Average Temperatures.” Wisconsin State Climatology Office, 2024, climatology.nelson.wisc.edu/wisconsin-climate-divisions/divisional-annual-average-precipitation/. 
+
+Kriebel, Andy. “Make an AWESOME Tableau Dashboard in Only 10 Minutes.” YouTube, YouTube, 23 May 2023, www.youtube.com/watch?v=6oFTdbrugUs. 
+
+“State Agricultural Trade Data.” State Agricultural Trade Data | Economic Research Service, 25 Sept. 2025, www.ers.usda.gov/data-products/state-agricultural-trade-data. 
+
+“USDA/Nass QuickStats .” USDA/NASS QuickStats Ad-Hoc Query Tool, quickstats.nass.usda.gov/.
+
+“Wisconsin.” Drought.Gov, 2025, www.drought.gov/states/wisconsin.
 
 ## AI acknowledgements
-I used Copilot to complete operations in Tableau, brainstorm overall research goals, and rewrite some of my interview questions to sound more official. 
+I used Copilot to complete operations in Tableau and Github, brainstorm overall research goals, and rewrite some of my interview questions to sound more official. 
 
