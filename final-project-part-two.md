@@ -39,7 +39,7 @@ For my interview I didn't provide any context to the interviewees. I wanted them
 | Do you prefer line charts, bar charts, or other formats for specific metrics?                          |I love line charts/ bar charts |Bar charts |I think the mix of different graph types is good|
 |   Would you like to see other metrics included?                         |Labels|Some charts could use more detailed labels | Information on where corn exports are going. Maybe breaking down the data by county |
 |  Is there anything missing that you think would be helpful?                        | Labels on corn condition (meanings)  |Labels on some of the x and y axis for a few of the graphs |Charts need more detailed axes, labels, and titles|
-| Is there anything else you’d like to share?                         |N/A|   N/A  |  N/A   |
+| Is there anything else you’d like to share?                         |N/A|   N/A  |  Outside context like policy changes and other big events might be a good add to explain why certain things are happening in the graphs   |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
@@ -49,10 +49,10 @@ Text here!
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Interviewees (2/3) suggested covering a longer time period, 10 to 25 years |  I'll test this out with a range of 20 years on my dashboard. I agree with this point and originally I covered 25 years in my charts. My main concern is that it'll make my already crowded dashboard too crowded but I'll give it another try regardless                                                                            |
+|  Interviewees seemed to find the two environmental charts (dought monitor and annual rainfall) helpful  |  I would like to expand my environmental section to really tie in the relationship between weather and conditions/yield. I think adding a chart on temperatures with average, high, and low would be well received         |
+| Interviewees asked for more detail and labels. One of the interviewees misinterpreted the "Corn Stocks" chart as financial assets instead of supply | My charts are unpolished and need better titles, axis labels, and clear units. Without the necessary context I run the risk of my charts being misinterpreted like the "Corn Stocks" chart                                                                                |
+| An interviewee mentioned adding "outside" context to explain highs and lows in the graphs    | I think this is a great idea. National policy and especially in the case of soybeans, international relations, can help explain trends in the data                                                                              |
 
 > ...include any final thoughts you have here. 
 
