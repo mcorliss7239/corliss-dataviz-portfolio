@@ -13,9 +13,6 @@ Text here!
 Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -29,21 +26,24 @@ Text here!
 |      | Would you like to see other metrics included?                 |
 | Discover gaps in data presentation or user expectations     |Is there anything missing that you think would be helpful?                  |
 |      | Is there anything else you’d like to share?                 |
-|      |                  |
-|      |                  |
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Civil Engineer) | Interview 2 (Army Officer) | Interview 3 (MBA Graduate Student)|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| What’s your initial impression?| This is good            | There is a lot of data about agricultural conditions             | Busy            |
+| What do you think this could be used for?                        | Corn production values and tracking changes YTD    |    Tracking impact of gov. policy on agriculture          |    Understanding corn statistics in Wisconsin         |
+| Who do you think the intended audience is?                          | Farmers, anyone invested in farming businesses or bulk purchasing of corn                                |  Gov. agencies that monitor agricultural data           | Farmers who grow corn     |
+|  If you were planning next season’s planting, what charts would you consult?                          | Drought, rainfall, corn conditions                  | I would track rainfall conditions and corn yield             |   Corn yield and corn price          |
+| What charts feel most useful or insightful?                           |  Corn stock                               |  Corn Export value           | Looking at the relationship between drought, rainfall, and corn conditions            |
+|  The dashboard currently displays data from the past ten years. Is this timeframe helpful for your needs, or would you prefer a different range?                       |  25 years  | 10-20 years is helpful | Doing a five-year span would cut down on information overload|
+| Do you prefer line charts, bar charts, or other formats for specific metrics?                          |I love line charts/ bar charts |Bar charts |I think the mix of different graph types is good|
+|   Would you like to see other metrics included?                         |Labels|Some charts could use more detailed labels | Information on where corn exports are going. Maybe breaking down the data by county |
+|  Is there anything missing that you think would be helpful?                        | Labels on corn condition (meanings)  |Labels on some of the x and y axis for a few of the graphs |Charts need more detailed axes, labels, and titles|
+| Is there anything else you’d like to share?                         |N/A|   N/A  |  N/A   |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
