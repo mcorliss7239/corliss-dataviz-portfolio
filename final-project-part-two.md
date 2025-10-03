@@ -8,11 +8,10 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+The target audience for my project is Wisconsin farmers, specifically those involved with the corn, soybean, and hay industries. I did not end up interviewing any Wisconsin farmers though as I don't personally know any. Instead, I interviewed two professionals and one MBA graduate student who has experience in Tableau. While they weren't familiar with the background of the farming industry they were able to give honest impressions of the interpretability of the visualizations and gave feedback from their own personal experience. 
 
 ## Interview script
+For my interview I didn't provide any context to the interviewees. I wanted them to answer the questions solely based off their impressions of the corn dashboard I shared with them. I only presented my corn dashboard as the soy and hay dashboards are similiar in structure and information presented. I felt it would be redundant and time consuming to go through all three separate dashbaords. 
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -28,9 +27,6 @@ Text here!
 |      | Is there anything else you’d like to share?                 |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Interview 1 (Civil Engineer) | Interview 2 (Army Officer) | Interview 3 (MBA Graduate Student)|
 |-------------------------|--------------------------------|-------------|-------------|
@@ -62,10 +58,6 @@ Text here!
 
 Text here!
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 _List any references you used here._
@@ -75,5 +67,5 @@ https://climatology.nelson.wisc.edu/wisconsin-climate-divisions/divisional-annua
 https://droughtmonitor.unl.edu/DmData/DataDownload/ComprehensiveStatistics.aspx
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used Copilot to complete operations in Tableau, brainstorm overall research goals, and rewrite some of my interview questions to sound more official. 
 
