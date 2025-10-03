@@ -1,7 +1,6 @@
 | [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader.
 
 Story Outline using Corn Dashboard:
 
