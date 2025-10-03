@@ -19,11 +19,18 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
+| Understand how users interpret the dashboard | What’s your initial impression?                  |
+|      |  What do you think this could be used for?                |
+|      |  Who do you think the intended audience is?                |
+|Identify which metrics are important for decision-making      | If you were planning next season’s planting, what charts would you consult?                 |
+|      | What charts feel most useful or insightful?                  |
+|Evaluate usability, clarity, and visual effectiveness       | The dashboard currently displays data from the past ten years. Is this timeframe helpful for your needs, or would you prefer a different range?                 |
+|      | Do you prefer line charts, bar charts, or other formats for specific metrics?                 |
+|      | Would you like to see other metrics included?                 |
+| Discover gaps in data presentation or user expectations     |Is there anything missing that you think would be helpful?                  |
+|      | Is there anything else you’d like to share?                 |
 |      |                  |
 |      |                  |
-|      |                  |
-
-
 Text here!
 
 ## Interview findings
