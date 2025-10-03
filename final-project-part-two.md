@@ -1,7 +1,10 @@
 | [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader.
+
+Story Outline using Corn Dashboard:
+The top three charts in the corn dashboard highlight the corns lifecycle from seed to sale. Discuss the relationship between planted and harvested as well as the grain versus silage split. Corn yield looks at how many tons or bushels farmers yielded from their harvested corn. Finally corn price per bushel depicts what farmers received per bushel of corn. Looking at the drought, rainfall, and conditions charts highlight good and bad years based on environmental impact. Tie enivronmental impact back into loss seen between planted-harvested and dips in yield. Highlight policy and market impacts on prices and exports. Forecast market trends. 
 
 <div class='tableauPlaceholder' id='viz1759461084705' style='position: relative'><noscript><a href='#'><img alt='Corn ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2-CornDashboard&#47;Corn&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part2-CornDashboard&#47;Corn' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2-CornDashboard&#47;Corn&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'>           
@@ -12,6 +15,9 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);             
 </script>
+
+Story Outline using Soy Dashboard:
+
 
 <div class='tableauPlaceholder' id='viz1759460850289' style='position: relative'><noscript><a href='#'><img alt='Soy ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2-SoyDashboard&#47;Soy&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Part2-SoyDashboard&#47;Soy' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Pa&#47;Part2-SoyDashboard&#47;Soy&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div> 
 <script type='text/javascript'>            
@@ -84,7 +90,7 @@ For my interview I didn't provide any context to the interviewees. I wanted them
 
 Kriebel, Andy. “Make an AWESOME Tableau Dashboard in Only 10 Minutes.” YouTube, YouTube, 23 May 2023, www.youtube.com/watch?v=6oFTdbrugUs. 
 
-“State Agricultural Trade Data.” State Agricultural Trade Data | Economic Research Service, 25 Sept. 2025, www.ers.usda.gov/data-products/state-agricultural-trade-data. 
+“State Agricultural Trade Data.” State Agricultural Trade Data Economic Research Service, 25 Sept. 2025, www.ers.usda.gov/data-products/state-agricultural-trade-data. 
 
 “USDA/Nass QuickStats .” USDA/NASS QuickStats Ad-Hoc Query Tool, quickstats.nass.usda.gov/.
 
