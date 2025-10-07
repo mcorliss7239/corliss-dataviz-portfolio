@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
