@@ -23,7 +23,14 @@ Text here!
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 >
-> https://climatology.nelson.wisc.edu/wisconsin-historic-climate-data/statewide-climate-normals/
+
+> “OFFICIAL Forecasts Apr-May-Jun 2026.” NOAA, 18 Sept. 2025, www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=7. 
+“OFFICIAL Forecasts Sep-Oct-Nov 2026.” NOAA, 18 Sept. 2025, www.cpc.ncep.noaa.gov/products/predictions/long_range/seasonal.php?lead=12. 
+“Statewide Climate Normals.” Wisconsin State Climatology Office, Jan. 2025, climatology.nelson.wisc.edu/wisconsin-historic-climate-data/statewide-climate-normals/. 
+U.S. Department of Agriculture, Economic Research Service and U.S. Department of Agriculture, Foreign
+Agricultural Service. (2025). Outlook for U.S. agricultural trade: August 2025 (Report No. AES-133).
+“USDA/Nass QuickStats .” USDA/NASS QuickStats Ad-Hoc Query Tool, quickstats.nass.usda.gov/. 
+“Wisconsin.” Drought.Gov, 2025, www.drought.gov/states/wisconsin. 
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
