@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Wisconsin Farm Economics Datasets</title>
+  <title>Project Datasets</title>
   <style>
     body { font-family: Arial, sans-serif; margin: 2em; background: #f9f9f9; }
     h1 { color: #2c3e50; }
