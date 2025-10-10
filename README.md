@@ -24,11 +24,10 @@ Check out my interactive visualization titled "Debt-to-GDP Ratio Trends: Greece 
 Check out my visualization titled "Boxing Tops ESPN’s Difficulty Rankings: A Comparative Look at 60 Sports" a redesign of "[Degree of Difficulty: Sport Rankings](https://www.espn.com/espn/page2/sportSkills)" by Page 2 at ESPN.
 
 ## Final project
-For my final project I plan to create an agricultural and livestock dashboard for farmers in Wisconsin. 
+For my final project I advise Wisconsin agricultural farmers on planting soy or corn for the 2026 season. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
-
 
 ## References
 N/A
