@@ -1,5 +1,7 @@
 | [Home Page](https://mcorliss7239.github.io/corliss-dataviz-portfolio/) | [Visualizing Government Debt](visualizing-government-debt) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) | [More Data Visualizations](More-Data-Visualizations) | [Project Datasets](Project-Data-Sets)
 
+# Final Project I
+
 # Outline
 In this project I want to create a dashboard for farmers in Wisconsin. This resource will provide users with a current “snapshot” of conditions but will also include historical data. With these two sources of input the dashboard will identify trends to support operational decision making and detect potential causes of concern.
 
